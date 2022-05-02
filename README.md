@@ -1,3 +1,6 @@
+# ARCHIVED (to keep a log of my development journey)
+
+
 # Lesson Flow
 
 ## Overview of Files and File Structure
